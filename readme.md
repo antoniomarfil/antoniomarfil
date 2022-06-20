@@ -1,8 +1,8 @@
 ##Olá eu sou o Antonio Marfil!
 
-Hoje eu trabalho com desenvolvimento de chatbots
+👽 Hoje eu trabalho com desenvolvimento de chatbots
 
-Tecnologias desenvolvidas:
+💻 Tecnologias desenvolvidas:
 
 Javascript
 Node.js
