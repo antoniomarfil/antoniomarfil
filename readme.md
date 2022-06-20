@@ -1,7 +1,16 @@
 ##Olá eu sou o Antonio Marfil!
 
 Hoje eu trabalho com desenvolvimento de chatbots
-Estudando Node.js e Javascript
+
+Tecnologias desenvolvidas:
+
+Javascript
+Node.js
+PHP
+Flutter
+Java
+C#
+HTML & CSS
 
 <div align="center">
   <a href="https://github.com/antoniomarfil">
